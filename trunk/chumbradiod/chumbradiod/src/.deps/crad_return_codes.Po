@@ -1,0 +1,60 @@
+crad_return_codes.o: crad_return_codes.c crad_interface.h \
+  /usr/arm-2008q3/bin/../arm-none-linux-gnueabi/libc/usr/include/pthread.h \
+  /usr/arm-2008q3/bin/../arm-none-linux-gnueabi/libc/usr/include/features.h \
+  /usr/arm-2008q3/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/predefs.h \
+  /usr/arm-2008q3/bin/../arm-none-linux-gnueabi/libc/usr/include/sys/cdefs.h \
+  /usr/arm-2008q3/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/wordsize.h \
+  /usr/arm-2008q3/bin/../arm-none-linux-gnueabi/libc/usr/include/gnu/stubs.h \
+  /usr/arm-2008q3/bin/../arm-none-linux-gnueabi/libc/usr/include/endian.h \
+  /usr/arm-2008q3/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/endian.h \
+  /usr/arm-2008q3/bin/../arm-none-linux-gnueabi/libc/usr/include/sched.h \
+  /usr/arm-2008q3/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/types.h \
+  /usr/arm-2008q3/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/typesizes.h \
+  /usr/arm-2008q3/bin/../lib/gcc/arm-none-linux-gnueabi/4.3.2/include/stddef.h \
+  /usr/arm-2008q3/bin/../arm-none-linux-gnueabi/libc/usr/include/time.h \
+  /usr/arm-2008q3/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/sched.h \
+  /usr/arm-2008q3/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/time.h \
+  /usr/arm-2008q3/bin/../arm-none-linux-gnueabi/libc/usr/include/signal.h \
+  /usr/arm-2008q3/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/sigset.h \
+  /usr/arm-2008q3/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/pthreadtypes.h \
+  /usr/arm-2008q3/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/setjmp.h
+
+crad_interface.h:
+
+/usr/arm-2008q3/bin/../arm-none-linux-gnueabi/libc/usr/include/pthread.h:
+
+/usr/arm-2008q3/bin/../arm-none-linux-gnueabi/libc/usr/include/features.h:
+
+/usr/arm-2008q3/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/predefs.h:
+
+/usr/arm-2008q3/bin/../arm-none-linux-gnueabi/libc/usr/include/sys/cdefs.h:
+
+/usr/arm-2008q3/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/wordsize.h:
+
+/usr/arm-2008q3/bin/../arm-none-linux-gnueabi/libc/usr/include/gnu/stubs.h:
+
+/usr/arm-2008q3/bin/../arm-none-linux-gnueabi/libc/usr/include/endian.h:
+
+/usr/arm-2008q3/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/endian.h:
+
+/usr/arm-2008q3/bin/../arm-none-linux-gnueabi/libc/usr/include/sched.h:
+
+/usr/arm-2008q3/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/types.h:
+
+/usr/arm-2008q3/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/typesizes.h:
+
+/usr/arm-2008q3/bin/../lib/gcc/arm-none-linux-gnueabi/4.3.2/include/stddef.h:
+
+/usr/arm-2008q3/bin/../arm-none-linux-gnueabi/libc/usr/include/time.h:
+
+/usr/arm-2008q3/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/sched.h:
+
+/usr/arm-2008q3/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/time.h:
+
+/usr/arm-2008q3/bin/../arm-none-linux-gnueabi/libc/usr/include/signal.h:
+
+/usr/arm-2008q3/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/sigset.h:
+
+/usr/arm-2008q3/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/pthreadtypes.h:
+
+/usr/arm-2008q3/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/setjmp.h:
